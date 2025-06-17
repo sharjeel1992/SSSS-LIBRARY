@@ -1,6 +1,6 @@
-# 📚 SHHH Library Management System
+# 📚 SSSS Library Management System
 
-Welcome to the **Stocking Hardy Harmonious Hardcopies (SHHH)** Library System — a fully object-oriented C++ project developed for CSS 343. This application simulates a library that manages publications, clients, and check-out/return operations using inheritance, custom data structures, and command processing from files.
+Welcome to the **SSSS** Library System — a fully object-oriented C++ project. This application simulates a library that manages publications, clients, and check-out/return operations using inheritance, custom data structures, and command processing from files.
 
 ---
 
@@ -31,13 +31,6 @@ This project strictly adheres to object-oriented programming (OOP) principles:
 - 🔄 **Polymorphism** for uniform command execution
 - 📦 **Encapsulation** of data and logic in well-defined classes
 
-Refer to `assign4-design.pdf` for:
-- UML diagrams
-- Memory structure visualizations
-- Pseudocode for key use cases
-- Class hierarchy and relationships
-
----
 
 ## 📁 Folder Structure
 |-> Client Side/ # Client, client hash table, and manager
